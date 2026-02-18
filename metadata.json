@@ -1,0 +1,8 @@
+{
+  "name": "Amata Health - Smart Consultation",
+  "description": "An integrated digital health platform for Rwanda, connecting patients and clinics through smart scheduling, secure tele-consultations, and digital prescriptions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
